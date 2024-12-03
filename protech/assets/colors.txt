@@ -1,0 +1,6 @@
+BG: #121212
+BG Overlay: Glowing #9B0000
+Accent: #9B0000
+Accent 2: #800000
+Text: #F0F0F0
+Text 2: #090909
